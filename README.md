@@ -1,35 +1,36 @@
+<div align="center">
+
+<img src="https://i.postimg.cc/RZb645y8/IMG-20260523-WA0192.jpg" width="250" style="border-radius:20px;">
+
 <h1 align="center">
-✨🚀 <span style="color:#00FFAA;">NaufraBot V3</span> 🤖💚
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=FFB6D9&center=true&vCenter=true&width=500&lines=AlyaKujou-MD"
+    alt="Typing SVG"
+  />
 </h1>
 
 <p align="center">
-  <img src="https://i.postimg.cc/vH5SHVW5/20260316-151443.jpg" width="300" alt="NaufraBot V2" />
+Bot MultiDispositivo para WhatsApp con IA, descargas y automatización.
 </p>
 
+</div>
 
 ---
 
-## 🧠 **¿Qué es NaufraBot V3?**
+## ✨ Características
 
-🔥 **NaufraBot V3** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
-
-- 🚀 Compatible con la última versión de **Baileys**
-- 💬 Juegos RPG integrados
-- 🧩 100% perzonalizable
-- 📦 Descargas (videos, música, stickers)
-- 🤖 Funciones con IA integradas
-- 🛡️ Protección AntiLink y AntiSpam para tu grupo 
+- 🤖 Inteligencia Artificial
+- 🎵 Descarga de música
+- 📌 Pinterest Search
+- 🖼️ Stickers
+- ⚡ Alta velocidad
+- 🧠 Sistema Multi Device
+- 🔥 Plugins
+- ☁️ Conexión estable
 
 ---
 
-# 🔥INSTALACIÓN POR TERMUX.
-* Instala el termux [aqui](https://f-droid.org/repo/com.termux_118.apk)
-
-> [!NOTE]
-> Copia los códigos uno por uno, no los pegues todos juntos a la vez. 👁️  
-> Algunos comandos como las descargas necesitan una clave API para poder funcionar.  
-> Puedes adquirir tu clave en nuestra página oficial:  
-> 👉 [https://api.naufrabot.com](https://api.naufrabot.com)
+## 🚀 Instalación
 
 ```bash
 pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install nodejs -y && pkg install wget -y && pkg install tesseract -y
