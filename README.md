@@ -60,11 +60,17 @@ node index
 
 [![YouTube](https://img.shields.io/badge/Canal_de_Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YoelFF-e7g)
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naufraofficial?_t=ZS-90ePBQwysYj&_r=1)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naufraofficial?_t=ZS-90ePBQwysYj&_r=)
 
-<h1 align="center">
+<div align="center">
+
+<img src="https://i.postimg.cc/9fMLT6h7/819aee8c0cf399f8e2a170c76ecaae8b.jpg" width="180"/>
+
+<h1>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=FFB6D9&center=true&vCenter=true&width=500&lines=Yoel"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Creador:+Yoel"
     alt="Typing SVG"
   />
 </h1>
+
+</div>
